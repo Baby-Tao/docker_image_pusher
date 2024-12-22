@@ -9,3 +9,4 @@ xhofe/alist:latest
 nriver/trilium-cn
 
 #mysql 镜像
+docker-library/mysql
