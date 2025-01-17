@@ -12,5 +12,5 @@ nriver/trilium-cn
 mysql
 #python37镜像
 python:3.7
-#metabase
+#metabase镜像
 metabase
