@@ -15,4 +15,4 @@ python:3.7
 #metabase镜像
 metabase/metabase
 #dataease镜像：帆软的开源平替
-dataease/dataease
+dataease
